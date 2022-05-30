@@ -25,16 +25,19 @@
     text-align: center;
   }
 }
+
 .todo-container {
   display: block;
   width: 500px;
   margin: 0 auto 0;
 }
+
 .task {
   width: 56%;
   display: inline-block;
   flex-grow: 1;
 }
+
 .new-task-block {
   display: flex;
 }
