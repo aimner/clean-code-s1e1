@@ -50,7 +50,7 @@
   list-style: none;
 }
 
-input,button{
+input,button {
   outline: none;
 }
 
@@ -158,14 +158,14 @@ input,button{
 
 /* Edit Task */
 .tasks .input-task {
-  display:none;
+  display: none;
 }
 
 .edit-mode .input-task {
-  display:inline-block;
-  width:224px;
+  display: inline-block;
+  width: 224px;
 }
 
 .edit-mode .task-text {
-  display:none;
+  display: none;
 }
